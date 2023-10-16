@@ -1,11 +1,2 @@
 1. Main branch line
-2. Commit 1 - feature
-3. Commit 2 - feature
-4. Commit 3 - feature
-5. Commit 4 - feature
-2. Main branch line
-3. Main branch line
-2. Commit 1 - feature
-3. Commit 2 - feature
-4. Commit 3 - feature
 
