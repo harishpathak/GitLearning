@@ -1,0 +1,11 @@
+1. Feature branch line
+2. Feature branch line
+<<<<<<< HEAD
+3. Feature branch line
+4. Feature branch line
+=======
+1. Main branch line
+2. Main branch line
+
+
+>>>>>>> e5f35d3 (main commit 1)
