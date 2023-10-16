@@ -1,5 +1,6 @@
 Main
 
+<<<<<<< HEAD
 Main1
 
 Main2
@@ -11,3 +12,6 @@ Main4
 Main5
 
 Main7
+=======
+Main1
+>>>>>>> main
