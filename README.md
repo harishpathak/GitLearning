@@ -1,2 +1,2 @@
 # GitLearning
-Learning command line git
+Learning command line git.
